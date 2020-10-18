@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/borderadius/static/css/main.e0fe41e2.chunk.css",
+    "main.js": "/borderadius/static/js/main.83912070.chunk.js",
+    "main.js.map": "/borderadius/static/js/main.83912070.chunk.js.map",
+    "runtime-main.js": "/borderadius/static/js/runtime-main.1237f0e3.js",
+    "runtime-main.js.map": "/borderadius/static/js/runtime-main.1237f0e3.js.map",
+    "static/js/2.59c56999.chunk.js": "/borderadius/static/js/2.59c56999.chunk.js",
+    "static/js/2.59c56999.chunk.js.map": "/borderadius/static/js/2.59c56999.chunk.js.map",
+    "index.html": "/borderadius/index.html",
+    "precache-manifest.2098cd6bc918d31e7ca34fac4f31af26.js": "/borderadius/precache-manifest.2098cd6bc918d31e7ca34fac4f31af26.js",
+    "service-worker.js": "/borderadius/service-worker.js",
+    "static/css/main.e0fe41e2.chunk.css.map": "/borderadius/static/css/main.e0fe41e2.chunk.css.map",
+    "static/js/2.59c56999.chunk.js.LICENSE.txt": "/borderadius/static/js/2.59c56999.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/borderadius/static/media/logo.3910b68f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1237f0e3.js",
+    "static/js/2.59c56999.chunk.js",
+    "static/css/main.e0fe41e2.chunk.css",
+    "static/js/main.83912070.chunk.js"
+  ]
+}
