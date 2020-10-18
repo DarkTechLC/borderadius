@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 0;
+}
+
+body,
+#root {
+  background: #21252b;
+  color: #d7dae0;
+  min-height: 100vh;
+}
